@@ -1,51 +1,118 @@
-for freelance work? do reach, [email](mailto:abhishknads.work@gmail.com) :)
+# 👨‍💻 Mohamed Amr (El Gambo)
 
-📊 **this week i spent my time on:**
+### 🎯 Frontend Developer | Turning Ideas into Stunning Interfaces
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;UI+Builder;Pixel+Perfect+Designs;Fast+%26+Responsive+Websites&center=true&width=500&height=45">
+</p>
+
+---
+
+## 🧠 Who Am I?
+
+I'm a **Frontend Developer** specialized in building modern, responsive, and high-performance user interfaces.
+
+💡 I focus on:
+
+* Clean & scalable code
+* Pixel-perfect design implementation
+* Smooth user experience (UX)
+* Fast loading performance
+
+🚀 I don’t just build websites… I build **experiences that convert visitors into clients.**
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Core
+
+* HTML5
+* CSS3 (Flexbox, Grid, Animations)
+* JavaScript (ES6+)
+
+### ⚛️ Frameworks & Libraries
+
+* React.js
+* Tailwind CSS / Bootstrap
+
+### 🧰 Tools
+
+* Git & GitHub
+* Figma (Design to Code)
+* Chrome DevTools
+
+---
+
+## 🔥 What Makes Me Different?
+
+✨ Pixel Perfect — exactly like the design
+⚡ Fast Websites — optimized for speed
+📱 Fully Responsive — all devices
+🧼 Clean Code — easy to scale & maintain
+🎯 Business Focus — not just code, results matter
+
+---
+
+## 💼 Services
+
+✔️ Landing Pages (High Conversion)
+✔️ Business Websites
+✔️ UI Implementation from Figma / XD
+✔️ Website Redesign
+✔️ Fix UI bugs & improve UX
+
+---
+
+## 📊 Coding Activity
+
 <!--START_SECTION:waka-->
 
-```txt
-TypeScript    11 hrs 12 mins        ██████████████████▒░░░░░░   73.53 %
-CSS           2 hrs 42 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.80 %
-Markdown      29 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-Python        19 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-JSON          10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+```txt id="front123"
+JavaScript   ████████████████████░░░   80%
+CSS          ███████░░░░░░░░░░░░░░░   12%
+HTML         █████░░░░░░░░░░░░░░░░░   8%
 ```
 
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+---
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+## 🚀 Featured Work
 
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  8,004 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+🚧 Add your best projects here (VERY IMPORTANT)
 
+Example:
 
-📈 my github stats
+* 🌐 Landing Page for Company
+* 🛒 E-commerce UI
+* 📱 Responsive Dashboard
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+---
 
+## 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+</p>
 
+---
 
+## 🤝 Work With Me
 
+جاهز أشتغل على مشاريع فريلانس وأساعدك تطلع موقع بشكل احترافي 👇
 
-<!--
-**MO-ELJAMBO/MO-ELJAMBO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📧 **Email:** [mohamedamr.dev@gmail.com](mailto:mohamedamr.dev@gmail.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Philosophy
+
+> "Users don’t care about your code… they care about how it feels."
+
+---
+
+<p align="center">
+  🚀 Let’s build something amazing together
+</p>
