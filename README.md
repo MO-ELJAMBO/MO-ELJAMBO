@@ -1,4 +1,4 @@
-# 👨‍💻 Mohamed Amr {El JAMBO}
+# 👨‍💻 Mohamed Amr {El Jambo}
 
 ### 🎯 Frontend Developer | Turning Ideas into Stunning Interfaces
 
