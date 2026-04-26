@@ -1,4 +1,4 @@
-# 👨‍💻 Mohamed Amr (El Gambo)
+# 👨‍💻 Mohamed Amr (El Jambo)
 
 ### 🎯 Frontend Developer | Turning Ideas into Stunning Interfaces
 
@@ -103,7 +103,7 @@ Example:
 
 جاهز أشتغل على مشاريع فريلانس وأساعدك تطلع موقع بشكل احترافي 👇
 
-📧 **Email:** [mohamedamr.dev@gmail.com](mailto:mohamedamr.dev@gmail.com)
+📧 **Email:** [mreljambo419@gmail.com](mailto:mreljambo419@gmail.com)
 
 ---
 
